@@ -1,0 +1,4 @@
+﻿  RECEVER.cpp
+C:\Users\Bhanusivateja\OneDrive\Desktop\GARUDA\RECEVER\RECEVER.cpp(95,17): warning C4244: 'initializing': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\Bhanusivateja\OneDrive\Desktop\GARUDA\RECEVER\RECEVER.cpp(106,17): warning C4101: 'inaddr': unreferenced local variable
+  RECEVER.vcxproj -> C:\Users\Bhanusivateja\OneDrive\Desktop\GARUDA\RECEVER\x64\Debug\RECEVER.exe

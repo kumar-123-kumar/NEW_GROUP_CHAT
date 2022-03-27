@@ -1,0 +1,4 @@
+﻿  SENDING.cpp
+C:\Users\Bhanusivateja\OneDrive\Desktop\GARUDA\SENDING\SENDING.cpp(91,20): warning C4244: 'initializing': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\Bhanusivateja\OneDrive\Desktop\GARUDA\SENDING\SENDING.cpp(102,20): warning C4101: 'inaddr': unreferenced local variable
+  SENDING.vcxproj -> C:\Users\Bhanusivateja\OneDrive\Desktop\GARUDA\SENDING\x64\Debug\SENDING.exe

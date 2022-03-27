@@ -1,0 +1,4 @@
+﻿  SERVER.cpp
+C:\Users\Bhanusivateja\OneDrive\Desktop\GARUDA\SERVER\SERVER.cpp(201,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bhanusivateja\OneDrive\Desktop\GARUDA\SERVER\SERVER.cpp(107,20): warning C4101: 'inaddr': unreferenced local variable
+  SERVER.vcxproj -> C:\Users\Bhanusivateja\OneDrive\Desktop\GARUDA\SERVER\x64\Debug\SERVER.exe
